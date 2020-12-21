@@ -1,5 +1,5 @@
 {
-    "name": "LineFollower",
+    "name": "RemoteControlled_bot",
     "description": "",
     "dependencies": {
         "core": "*",
